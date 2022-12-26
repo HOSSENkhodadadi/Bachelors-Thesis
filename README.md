@@ -1,4 +1,4 @@
-# bachelor-thesis
+# Bachelor-Thesis
 Files included code and scripts related to my final bachelor thesis.
 the data necessary for this project is extracted from John Hopkins, Our World in Data dataset
 the focus of this project was to predict number of people who were infected by the virus in Germany.
